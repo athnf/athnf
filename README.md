@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React And Laravel**
 
-- 👯 I’m looking to collaborate on **Hutama Karya ( Persero )**
+- 👯 I’m looking to collaborate on **PT TRASPAC Makmur Sejahtera**
 
 - 📄 Know about my experiences [https://fircode-portfolio.vercel.app](https://fircode-portfolio.vercel.app)
 
