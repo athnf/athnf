@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athnf&label=Profile%20views&color=0e75b6&style=flat" alt="athnf" /> </p>
 
-- 🔭 I’m currently working on [Fircode Studio](https://portofolio-two-lime.vercel.app/))
+- 🔭 I’m currently working on PT Abhimata Citra Abadi
 
 - 🌱 I’m currently learning **React And Laravel**
 
