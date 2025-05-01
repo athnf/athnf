@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athnf&label=Profile%20views&color=0e75b6&style=flat" alt="athnf" /> </p>
 
-- 🔭 I’m currently working on [Fircode Studio](https://fircode-portfolio.vercel.app)
+- 🔭 I’m currently working on [Fircode Studio](https://portofolio-two-lime.vercel.app/))
 
 - 🌱 I’m currently learning **React And Laravel**
 
 - 👯 I’m looking to collaborate on **PT TRASPAC Makmur Sejahtera**
 
-- 📄 Know about my experiences [https://fircode-portfolio.vercel.app](https://fircode-portfolio.vercel.app)
+- 📄 Know about my experiences [Portfolio](https://portofolio-two-lime.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
