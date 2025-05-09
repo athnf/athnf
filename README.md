@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Athaillah Nazhif Firdaus</h1>
-<h3 align="center">Frontend Developer & Software Engineer from Indonesia</h3>
+<h1 align="center">👋 Hi there, I'm Athaillah Nazhif Firdaus</h1>
+<h3 align="center">💻 Fresh Graduate | Frontend Developer | Aspiring AI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=athnf&label=Profile%20views&color=0e75b6&style=flat" alt="athnf" />
@@ -7,56 +7,58 @@
 
 ---
 
-🎓 **Fresh Graduate** from SMK Negeri 65 Jakarta, Software Engineering  
-🔧 **Former Intern** at PT TRASPAC Makmur Sejahtera as IT Support (6 months)  
-💼 **Actively looking** for job opportunities, freelance gigs, or short-term projects  
-🧠 Currently learning **React** and **Laravel** to strengthen my fullstack capabilities  
-💡 Passionate about UI/UX, clean code, and modern web development  
-🌐 Checkout my portfolio: [portofolio-two-lime.vercel.app](https://portofolio-two-lime.vercel.app/)
+🎓 **Education**  
+Fresh graduate from **SMK Negeri 65 Jakarta**, majoring in **Software Engineering** (RPL).
+
+📜 **Certification**  
+✅ BNSP - Junior Programming (Officially Certified)
+
+💼 **Experience**  
+🛠 Internship at **PT TRASPAC Makmur Sejahtera** as **IT Support** for 6 months.  
+🚀 Currently open for **freelance**, **part-time**, or **full-time opportunities**.
+
+🧠 **Interests**  
+Exploring the world of **Artificial Intelligence**, while building strong skills in **frontend development**, UI/UX, and software engineering best practices.
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+<h3>🔍 Currently Learning</h3>
+
+- 🧑‍💻 React.js & Laravel for modern web development
+- 🤖 Basic AI & Machine Learning with Python
+- ⚙️ Clean Code, Git Workflow, and scalable frontend practices
+
+---
+
+<h3>📌 Portfolio & Contact</h3>
+
+- 🌐 [Portfolio Website](https://portofolio-two-lime.vercel.app/)
+- 📫 Reach me via:
+  <p align="left">
+    <a href="https://twitter.com/nazhiffirdaus" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="20" width="20" /> Twitter</a><br>
+    <a href="https://www.linkedin.com/in/athaillah-nazhif-firdaus-750aa027b/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="20" width="20" /> LinkedIn</a><br>
+    <a href="https://instagram.com/athnf._" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="20" width="20" /> Instagram</a><br>
+    <a href="https://www.youtube.com/c/justprz" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="20" width="20" /> YouTube</a>
+  </p>
+
+---
+
+<h3>🛠️ Tech Stack</h3>
+
 <p align="left">
-  <a href="https://twitter.com/nazhiffirdaus" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/athaillah-nazhif-firdaus-750aa027b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/athnf._" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/justprz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=react,laravel,js,php,tailwind,html,css,python,cpp,nodejs,mysql,mongodb,git,figma,arduino,linux" />
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tech Stack & Tools</h3>
-<p align="left">
-  <!-- core -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <!-- tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" />
-  <!-- other -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" />
-</p>
+<h3>📊 GitHub Stats</h3>
 
----
-
-<h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athnf&show_icons=true&locale=en" alt="athnf" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athnf&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athnf&show_icons=true&locale=en&layout=compact" alt="athnf" />
+  <img src="https://github-readme-stats.vercel.app/api?username=athnf&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athnf" alt="athnf" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athnf&theme=radical" alt="Streak Stats" />
 </p>
