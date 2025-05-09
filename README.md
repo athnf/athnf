@@ -35,7 +35,6 @@ Exploring the world of **Artificial Intelligence**, while building strong skills
 - 🌐 [Portfolio Website](https://portofolio-two-lime.vercel.app/)
 - 📫 Reach me via:
   <p align="left">
-    <a href="https://twitter.com/nazhiffirdaus" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="20" width="20" /> Twitter</a><br>
     <a href="https://www.linkedin.com/in/athaillah-nazhif-firdaus-750aa027b/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="20" width="20" /> LinkedIn</a><br>
     <a href="https://instagram.com/athnf._" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="20" width="20" /> Instagram</a><br>
     <a href="https://www.youtube.com/c/justprz" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="20" width="20" /> YouTube</a>
