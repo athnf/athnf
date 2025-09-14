@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Athaillah Nazhif Firdaus</h1>
-<h3 align="center">💻 Fresh Graduate | Frontend Developer | Aspiring AI Engineer</h3>
+<h3 align="center">💻 Fresh Graduate | Frontend Developer | Aspiring AI Engineer | Coding Instructor (Beginner)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=athnf&label=Profile%20views&color=0e75b6&style=flat" alt="athnf" />
@@ -18,22 +18,30 @@ Fresh graduate from **SMK Negeri 65 Jakarta**, majoring in **Software Engineerin
 🚀 Currently open for **freelance**, **part-time**, or **full-time opportunities**.
 
 🧠 **Interests**  
-Exploring the world of **Artificial Intelligence**, while building strong skills in **frontend development**, UI/UX, and software engineering best practices.
+Exploring the world of **Artificial Intelligence**, while building strong skills in **frontend development**, UI/UX, software engineering best practices, and **teaching programming**.
+
+---
+
+<h3>🎤 Teaching & Mentoring</h3>
+
+- 📚 **Beginner-friendly coding instructor** — I believe everyone can learn programming if guided with patience.  
+- 🆓 Currently opening **FREE coding classes** for students & beginners.  
+- 📲 Contact me on **WhatsApp: [0821-2551-1485](https://wa.me/6282125511485)** if you’re interested in joining.  
 
 ---
 
 <h3>🔍 Currently Learning</h3>
 
-- 🧑‍💻 React.js & Laravel for modern web development
-- 🤖 Basic AI & Machine Learning with Python
-- ⚙️ Clean Code, Git Workflow, and scalable frontend practices
+- 🧑‍💻 React.js & Laravel for modern web development  
+- 🤖 Basic AI & Machine Learning with Python  
+- ⚙️ Clean Code, Git Workflow, and scalable frontend practices  
 
 ---
 
 <h3>📌 Portfolio & Contact</h3>
 
-- 🌐 [Portfolio Website](https://portofolio-two-lime.vercel.app/)
-- 📫 Reach me via:
+- 🌐 [Portfolio Website](https://portofolio-two-lime.vercel.app/)  
+- 📫 Reach me via:  
   <p align="left">
     <a href="https://www.linkedin.com/in/athaillah-nazhif-firdaus-750aa027b/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="20" width="20" /> LinkedIn</a><br>
     <a href="https://instagram.com/athnf._" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="20" width="20" /> Instagram</a><br>
