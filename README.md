@@ -34,7 +34,7 @@ Saat ini fokus pada pendalaman ekosistem **React.js** dan **Laravel**, serta akt
 * Membimbing lebih dari 20+ peserta dalam memahami fundamental *Software Development*.
 
 ### **IT Support Intern** | *PT TRASPAC Makmur Sejahtera*
-**Januari 2023 – Juni 2023**
+**September 2024 – Februari 2025**
 * Bertanggung jawab atas pemeliharaan infrastruktur IT dan penanganan kendala teknis (troubleshooting) perangkat keras serta lunak.
 * Mengelola konfigurasi jaringan internal dan memastikan keamanan sistem operasional perusahaan.
 * Memberikan dukungan teknis secara responsif untuk memastikan efisiensi kerja operasional tim.
