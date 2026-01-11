@@ -1,123 +1,108 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Athaillah%20Nazhif%20Firdaus&fontSize=70&animation=fadeIn&desc=Frontend%20Developer%20|%20AI%20Enthusiast%20|%20Coding%20Mentor&descAlignY=75&descSize=25" />
+  <img src="https://capsule-render.vercel.app/render?type=thicket&color=0e75b6&height=300&section=header&text=Athaillah%20Nazhif%20Firdaus&fontSize=65&animation=fadeIn&desc=Software%20Engineer%20|%20Frontend%20Specialist%20|%20Coding%20Mentor&descAlignY=70&descSize=20" alt="Header Banner" />
 </div>
 
 <div align="center">
   <p align="center">
-    <a href="https://portofolio-two-lime.vercel.app/">
-      <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-Check_Now-brightgreen?style=for-the-badge&logo=vercel" />
+    <a href="mailto:azhif.firdaus25@gmail.com">
+      <img src="https://img.shields.io/badge/Email-azhif.firdaus25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/athaillah-nazhif-firdaus-750aa027b/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+      <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="https://portofolio-two-lime.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Digital_Archive-black?style=for-the-badge&logo=vercel" />
     </a>
   </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=athnf&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/badge/Certification-BNSP_Junior_Programmer-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Scalable_Frontend-orange?style=flat-square" />
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Highly dedicated **Software Engineering** graduate from **SMK Negeri 65 Jakarta**. I specialize in building responsive, user-centric frontend applications while exploring the integration of **Artificial Intelligence** to enhance user experiences. 
-
-I don't just write code; I architect solutions. My background as a **Coding Instructor** has sharpened my ability to explain complex technical concepts in simple terms, ensuring clean and maintainable codebases.
-
-- 🔭 **Current Focus:** Advanced React.js ecosystem & Laravel Enterprise Architecture.
-- 🤖 **Future Goal:** Integrating Machine Learning models into web-based platforms.
-- ⚡ **Fun Fact:** I believe that "Learning by Teaching" is the fastest way to master any technology.
-
----
-
-## 💼 Professional Journey
-
-### 🛠️ IT Support Intern | PT TRASPAC Makmur Sejahtera
-*Jan 2023 - June 2023*
-- Maintained and troubleshot hardware/software infrastructure for 50+ workstations.
-- Assisted in network configuration and internal server monitoring.
-- Collaborated with the IT team to streamline technical support workflows.
-
-### 🎤 Coding Instructor & Mentor | Freelance
-*2024 - Present*
-- Educating 20+ beginners in basic logic, HTML, CSS, and JavaScript.
-- Providing free mentorship sessions to bridge the digital divide.
-- Developing simplified curriculum for "Zero-to-Hero" coding journeys.
-
----
-
-## 🛠️ Comprehensive Skill Set
-
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 🤖 AI & Programming Logic
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
----
-
-## 📊 My GitHub Life
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=athnf&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athnf&layout=compact&theme=radical" />
 </div>
 
 <br />
 
+## 🏛️ Profil Profesional
+Lulusan **Rekayasa Perangkat Lunak** dari **SMK Negeri 65 Jakarta** dengan spesialisasi pada pengembangan antarmuka pengguna (Frontend) dan arsitektur perangkat lunak. Memiliki dedikasi tinggi dalam menghasilkan kode yang bersih (*Clean Code*), efisien, dan skalabel. 
+
+Saat ini fokus pada pendalaman ekosistem **React.js** dan **Laravel**, serta aktif melakukan riset mandiri mengenai implementasi **Kecerdasan Buatan (AI)** dalam optimalisasi workflow pengembangan aplikasi web. Selain sebagai pengembang, saya juga berperan aktif sebagai instruktur pemrograman untuk membangun fondasi teknis bagi talenta digital baru.
+
+---
+
+## 💼 Pengalaman Kerja & Proyek
+
+### **Instruktur Pemrograman (Mentor)** | *Freelance*
+**Januari 2024 – Sekarang**
+* Menyusun kurikulum pemrograman dasar yang komprehensif untuk pemula (Logic, HTML, CSS, JS).
+* Menyelenggarakan kelas bimbingan teknis secara daring dan luring.
+* Membimbing lebih dari 20+ peserta dalam memahami fundamental *Software Development*.
+
+### **IT Support Intern** | *PT TRASPAC Makmur Sejahtera*
+**Januari 2023 – Juni 2023**
+* Bertanggung jawab atas pemeliharaan infrastruktur IT dan penanganan kendala teknis (troubleshooting) perangkat keras serta lunak.
+* Mengelola konfigurasi jaringan internal dan memastikan keamanan sistem operasional perusahaan.
+* Memberikan dukungan teknis secara responsif untuk memastikan efisiensi kerja operasional tim.
+
+---
+
+## 🛠️ Kompetensi Teknis (Tech Stack)
+
+### **Core Frontend Architecture**
+| Technology | Proficiency | Tools |
+| :--- | :--- | :--- |
+| **Languages** | HTML5, CSS3, Modern JavaScript (ES6+) | VS Code, ESLint |
+| **Frameworks** | React.js, Tailwind CSS, Bootstrap | Vite, Webpack |
+| **State Mgmt** | React Hooks, Context API | Redux (Learning) |
+
+### **Backend & Database Management**
+| Technology | Proficiency | Tools |
+| :--- | :--- | :--- |
+| **Languages** | PHP, Node.js, Python | Composer, NPM |
+| **Frameworks** | Laravel (Intermediate) | Artisan, Eloquent |
+| **Database** | MySQL, MongoDB | TablePlus, phpMyAdmin |
+
+### **Specialized Skills & DevOps**
+* **Version Control:** Git (GitHub/GitLab) Workflow (Branching, Merging, Pull Requests).
+* **Design Tools:** Figma (UI/UX Design, Prototyping, Design Systems).
+* **Hardware:** Arduino Programming, IoT Fundamentals.
+* **System:** Linux Environment & Basic Server Administration.
+
+---
+
+## 📈 Statistik Kontribusi & Aktivitas
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=athnf&theme=radical" />
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=athnf&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athnf&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athnf&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📜 Sertifikasi & Pencapaian
+* **Sertifikasi Kompetensi BNSP:** Junior Programmer (LSP Informatika).
+* **Penyelenggara Kelas Gratis:** Inisiatif edukasi pemrograman untuk komunitas lokal.
+* **Certified IT Support:** Berhasil menyelesaikan masa magang dengan predikat memuaskan di PT TRASPAC Makmur Sejahtera.
+
+---
+
+## 🤝 Korespondensi & Kontak Profesional
+Saya terbuka untuk peluang kolaborasi proyek, posisi *Full-time*, maupun diskusi teknis lebih lanjut mengenai pengembangan perangkat lunak.
+
+* **Email:** [azhif.firdaus25@gmail.com](mailto:azhif.firdaus25@gmail.com)
+* **LinkedIn:** [linkedin.com/in/athaillah-nazhif-firdaus](https://www.linkedin.com/in/athaillah-nazhif-firdaus-750aa027b/)
+* **WhatsApp:** [+62 821 2551 1485](https://wa.me/6282125511485)
+* **Instagram:** [@athnf._](https://instagram.com/athnf._)
 
 <br />
 
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athnf&theme=radical" />
+<div align="right">
+  <i>Terakhir diperbarui pada: Januari 2026</i><br />
+  <b>Athaillah Nazhif Firdaus</b>
 </div>
-
----
-
-## 🏆 Certifications & Achievements
-- **BNSP Junior Programming Certification** (National Standard)
-- **Top Performer Intern** at PT TRASPAC Makmur Sejahtera
-- **Contributor** to various local open-source web templates
-
----
-
-## 📬 Get In Touch
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
-
-- **Email:** (Add your email here)
-- **WhatsApp:** [+62 821 2551 1485](https://wa.me/6282125511485)
-- **Instagram:** [@athnf._](https://instagram.com/athnf._)
-- **YouTube:** [JustPRZ](https://www.youtube.com/c/justprz)
-
-<div align="center">
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-<p align="center">
-  Built with ❤️ by Athaillah Nazhif Firdaus
-</p>
