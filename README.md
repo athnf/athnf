@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=320&section=header&text=Athaillah%20Nazhif%20Firdaus&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Technical%20Mentor%20%7C%20Frontend%20Architect&descSize=20&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=320&section=header&text=Athaillah%20Nazhif%20Firdaus&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Technical%20Mentor%20%7C%20Frontend%20Architect&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
