@@ -1,154 +1,186 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=320&section=header&text=Athaillah%20Nazhif%20Firdaus&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Technical%20Mentor%20%7C%20Frontend%20Architect&descSize=20&descAlignY=55&descAlign=50" width="100%" />
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Transforming+Ideas+into+Clean+Code;Mentoring+the+Next+Generation+of+Devs;Mastering+React.js,+Laravel,+and+Beyond" alt="Typing SVG" />
+# Athaillah Nazhif (Najib) Firdaus
+
+<p>
+  <b>Founder & Systems Architect at Naverse Group</b> • Full-Stack Systems & Creative Tech<br>
+  Jakarta, Indonesia
+</p>
+
+<p>
+  <a href="https://anf-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Status-●_Available_for_Work_&_Mentoring-2ea44f?style=flat-square" alt="Status" />
   </a>
-</div>
-
-<div align="center">
+  <a href="https://anf-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-anf--portfolio.vercel.app-0969da?style=flat-square" alt="Portfolio" />
+  </a>
   <a href="mailto:azhif.firdaus25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Email-azhif.firdaus25@gmail.com-d97706?style=flat-square" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/athaillah-nazhif-firdaus-750aa027b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  <a href="https://portofolio-two-lime.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View_Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/athaillahnazhif/">
+    <img src="https://img.shields.io/badge/LinkedIn-athaillahnazhif-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/6282125511485">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-25d366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://instagram.com/athnf._">
-    <img src="https://img.shields.io/badge/Instagram-@athnf._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-@athnf._-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
-
-<br />
-
----
-
-## 👨‍💻 Professional Profile & Engineering Philosophy
-
-Greetings! I am **Athaillah Nazhif Firdaus**, a passionate **Software Engineer** and **Frontend Specialist** based in Jakarta, Indonesia. My professional journey is defined by a relentless pursuit of technical excellence and a commitment to solving complex problems through elegant code.
-
-As a high-achieving graduate of **SMK Negeri 65 Jakarta (Class of 2025)** specializing in **Software Engineering**, I have moved beyond basic coding to master **System Architecture** and **User Experience Design**. I do not just build websites; I engineer digital ecosystems that are scalable, maintainable, and highly performant.
-
-### 🚀 My Core Philosophy
-* **Clean Code First:** I believe code is communication. It must be readable by humans just as easily as it is executed by machines.
-* **User-Centric Architecture:** Every line of code I write is dedicated to enhancing the end-user experience, focusing on speed, accessibility (A11y), and responsiveness.
-* **Continuous Evolution:** In the fast-paced tech world, stagnation is obsolete. I am constantly upskilling in **AI Integration**, **Cloud Computing**, and **Advanced State Management**.
-
----
-
-## 🛠️ Comprehensive Technical Stack
-
-My toolkit is a blend of industry-standard technologies and cutting-edge frameworks, allowing me to handle Full Stack responsibilities with a focus on Frontend excellence.
-
-<div align="center">
-
-### **🎨 Frontend & UI Architecture**
-| **Core Technology** | **Proficiency** | **Use Cases** |
-| :--- | :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | **Expert** | Semantic Structure, SEO, Accessibility. |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | **Expert** | Advanced Animations, Grid/Flexbox, Responsive Layouts. |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | **Advanced** | DOM Manipulation, ES6+, Asynchronous Logic. |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | **Specialist** | SPA Development, Context API, Custom Hooks, Redux. |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | **Expert** | Rapid UI Development, Design Systems, Dark Mode. |
-
-### **⚙️ Backend, Database & Server**
-| **Core Technology** | **Proficiency** | **Use Cases** |
-| :--- | :--- | :--- |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | **Intermediate** | Server-side Logic, API Integration. |
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | **Intermediate** | MVC Architecture, RESTful API Development, Eloquent ORM. |
-| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | **Intermediate** | Relational Data Modeling, Complex Queries. |
-| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | **Basic** | NPM Ecosystem, Simple Backend Services. |
-
-### **🧰 DevOps, Tools & Design**
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 💼 Detailed Professional Experience
+### Executive Profile
 
-### **🧑‍🏫 Lead Programming Instructor & Technical Mentor**
-**Freelance Education Initiative | Jan 2024 – Present**
-* **Strategic Curriculum Design:** Developed a comprehensive "Zero-to-Hero" syllabus covering Logic, Algorithms, HTML, CSS, and JavaScript, tailored for absolute beginners.
-* **Instructional Excellence:** Conducted high-impact mentoring sessions for over **20+ students**, translating complex computer science concepts into digestible, practical knowledge.
-* **Outcome-Based Training:** Guided students to build and deploy their own Portfolio Websites and Web Apps, bridging the gap between theory and industry application.
+Software engineer and systems architect based in Jakarta, Indonesia. Founder of **Naverse Group (Naverse Teknologi Utama)**, directing product architecture, educational technology platforms, and client software delivery.
 
-### **🖥️ IT Support & Infrastructure Intern**
-**PT TRASPAC Makmur Sejahtera | Sep 2024 – Feb 2025**
-* **Enterprise System Management:** Oversaw the daily operations of critical IT infrastructure, ensuring zero downtime for business-critical applications.
-* **Technical Troubleshooting:** Acted as the primary point of contact for hardware and software issues, diagnosing and resolving network conflicts, OS errors, and peripheral malfunctions.
-* **Network Security Administration:** Implemented secure network protocols and managed user access controls, safeguarding sensitive corporate data against unauthorized access.
+* **Academic Background:**
+  * **Universitas Terbuka** : Bachelor of Computer Science (S.Kom), Information Systems, Faculty of Science and Technology.
+  * **SMK Negeri 65 Jakarta ('25)** : Vocational Diploma in Software Engineering (Final Grade: 87.5).
+* **Engineering Philosophy:**
+  * Concept-first, code-second: Prioritizing computational logic, system boundaries, and data integrity prior to writing implementation code.
+  * Hardened architecture: Zero-trust database layers with PostgreSQL Row Level Security (RLS), atomic RPC transactions, and multi-layer webhook validation.
+  * Practical mentorship: Mentoring developers in core computing concepts, memory models, algorithms, and production Linux deployment.
 
 ---
 
-## 📊 GitHub Analytics & Contributions
+### Ventures & Architecture Ecosystem (Naverse Group)
 
-*(Note: These statistics update automatically in real-time based on my coding activity)*
+```
+Naverse Teknologi Utama (Holding Entity)
+├── Naverse Academy   [Live]       : Concept-First EdTech Platform & CBT Exam Engine
+├── Naverse Technology [Available]  : Enterprise Web Systems & Client Solutions
+└── Naverse Studio     [On Hiatus]  : 3D Indie Games & Interactive Simulations (Formerly JzInteractive)
+```
+
+#### 1. Naverse Academy `[Live Flagship]`
+* **Role:** Founder, Solo Developer & Lead Instructor
+* **Target:** Breaking the syntax-trap by teaching core computing concepts through in-depth reading, structured diagrams, and isolated coding sandboxes.
+* **Architecture & Hardening:**
+  * **Frontend & Runtime:** Next.js 16 (App Router), React 19, Tailwind CSS v4, Poppins + Plus Jakarta Sans dual typography system.
+  * **Database & Security:** Supabase PostgreSQL 17 with strict Row Level Security (RLS), DevTools update-prevention triggers (`trg_protect_profiles_secure`), and atomic stored procedures.
+  * **In-Browser Sandbox Engine:** Lightweight client-side Python 3 and JavaScript execution environment with zero external runtime dependencies, built-in standard functions, and a 20,000-iteration circuit breaker to prevent browser freezes.
+  * **UTBK-Standard CBT Anti-Cheat:** Fullscreen enforcement, real-time window blur and tab-switch monitoring, 3-infraction auto-disqualification, clipboard locking, minimum 5-question evaluation quotas, and automatic certificate revocation upon module resets.
+  * **Payment Integration:** Mayar API v2 multi-layer verified billing with automated webhook reconciliation and atomic point allocations.
+  * **Navi AI Customer Support:** Sub-40ms operational assistant powered by Groq multi-model failover with sliding-window rate limiters (5 requests per 30 seconds) and 4-tier anti-jailbreak defenses.
+
+#### 2. Naverse Technology `[Available for Client Projects]`
+* **Role:** Full-Stack Systems Engineer & Consultant
+* **Scope:** Engineering customized web platforms, SaaS products, and enterprise business automation systems.
+* **Featured Client Systems:**
+  * **SIABSENSI (PT Jaringan Putra Nusantara):** Enterprise HR, GPS attendance, and automated payroll web platform built with Laravel 10, MySQL, and Tailwind CSS. Features real-time GPS and selfie facial verification, multi-level leave approvals, automated PPh 21 and THR calculations, and batch PDF payslip generation.
+  * **Airline Reservation Platform (ARS):** Full-stack Laravel application for flight booking, schedule management, role-based access control (RBAC), database transaction logs, data encryption, and automated database backups.
+  * **E-VOTER (SMKN 65 Jakarta):** Real-time election system engineered with PHP, AJAX, Tailwind CSS, and Bootstrap. Handled concurrent voting across hundreds of students with single-vote enforcement and live dashboard monitoring.
+  * **PMB Academic Admission System:** Student registration platform with online CBT examination modules and session integrity controls.
+
+#### 3. Naverse Studio `[On Hiatus]` *(Formerly JzInteractive on itch.io)*
+* **Role:** Solo Game Developer & Creative Technologist
+* **Scope:** Standalone 3D games and interactive simulations built using Unity Universal Render Pipeline (URP), C#, and Blender.
+* **Flagship Project:**
+  * **ANOMALY FLOOR 0:** Standalone 3D psychological horror anomaly-hunting game released on itch.io. Solo-developed with procedural loop mechanics, player state machines, elevator transition logic, occlusion culling for steady 60+ FPS, and 3D spatial acoustics for Windows, macOS, and Linux.
+
+---
+
+### Technical Arsenal
+
+| Domain | Technologies & Systems |
+| :--- | :--- |
+| **Web & Frontend Systems** | Next.js 16 (App Router / RSC), React 19, TypeScript, JavaScript (ES6+), Tailwind CSS v4, HTML5, CSS3, Vite |
+| **Backend & Core Architecture** | Laravel 10, PHP, Node.js, Express.js, RESTful API Architecture, Server-Side Rendering (SSR) |
+| **Databases & Cloud Storage** | PostgreSQL 17 (Supabase), MySQL, Row-Level Security (RLS), Table Triggers, Atomic RPC Stored Procedures |
+| **Payment Gateways** | Mayar API v2 (Multi-Layer Verification), Tripay Payment Gateway |
+| **Creative Tech & Game Dev** | Unity (Universal Render Pipeline), C# Scripting, Blender (3D Modeling & Environment Design) |
+| **DevOps, Security & Tools** | Linux (Ubuntu Server Setup, Nginx), Git & GitHub Workflow, Postman API Testing, Vercel, VS Code |
+| **IT Ops & Infrastructure** | Hardware Diagnostics, Network Configuration, CBT Exam Engines, Anti-Cheat Systems |
+
+---
+
+### Professional Experience & Mentorship
+
+#### **Founder & Lead Developer**
+**Naverse Group (Naverse Teknologi Utama) | Apr 2026 : Present**
+* Architected and maintained the end-to-end infrastructure for Naverse Academy, Naverse Technology, and Naverse Studio.
+* Designed modular curricula (5 Golden Modules, 16 chapters, 100 UTBK-standard CBT question banks) for concept-first computing literacy.
+* Implemented multi-model AI routing with Groq and atomic payment reconciliation with Mayar API v2.
+
+#### **Freelance Full-Stack Developer**
+**Self-Employed | Feb 2024 : Present**
+* Built custom web applications, SaaS tools, and database schemas for independent clients, startups, and institutions.
+* Integrated payment gateways, optimized slow queries, resolved production defects, and hardened database access rules.
+* Core tools: Next.js, React, TypeScript, Laravel, PostgreSQL, MySQL, Tailwind CSS, REST APIs.
+
+#### **IT & Technical Trainer**
+**Freelance Mentorship | Aug 2025 : Mar 2026**
+* Delivered structured 1-on-1 private mentoring for 20+ learners focusing on programming logic, computational algorithms, and JavaScript.
+* Guided students through practical Linux (Ubuntu) server installations, Nginx reverse proxy configurations, and production deployments.
+* Taught computing fundamentals including memory hierarchies, standard I/O streams, and runtime event loops.
+
+#### **Alumni Guest Speaker: Cyber Security Fundamentals**
+**SMK Negeri 65 Jakarta | 2025**
+* Returned to SMKN 65 Jakarta as an invited speaker to deliver an intensive cyber security training session for the school IT club.
+* Trained students on fundamental security principles, threat vectors, input sanitization, and defensive programming practices.
+
+#### **Data Support & Front-End Intern**
+**PT Traspac Makmur Sejahtera | Sep 2024 : Feb 2025**
+* Processed, validated, and structured operational datasets to produce weekly and monthly business summary reports.
+* Collaborated on internal front-end interfaces to improve operational data visualization and reporting workflows.
+* Verified data integrity across logging pipelines and automated routine spreadsheet operations.
+
+---
+
+### Verified Credentials & Honors
+
+* 📜 **BNSP Certified: Junior Software Developer**
+  * *Issuing Body:* Badan Nasional Sertifikasi Profesi (LSP Informatika), Republic of Indonesia
+  * *Credential ID:* `62010 2512 0 0001043 2025` *(Issued Sep 2025, Valid through Sep 2028)*
+  * *Verification:* Validates national competence in software engineering principles, algorithm design, structured coding, and relational database management.
+
+* 🥉 **Bronze Medalist: Indonesian Youth Coding Olympiad**
+  * *Issuing Organization:* Youth Coding Club *(Jul 2023)*
+  * *Focus:* National-level algorithmic problem-solving, structured logic design, and competitive programming.
+
+* 💼 **Data Support Internship Distinction**
+  * *Issuing Organization:* PT Traspac Makmur Sejahtera *(Feb 2025)*
+  * *Verification:* Commendation for reliable data analysis, internal reporting workflows, and front-end dashboard support.
+
+* 🎓 **Vocational High School Diploma: Software Engineering**
+  * *Institution:* SMK Negeri 65 Jakarta *(Graduated 2025, Grade: 87.5)*
+  * *Leadership:* Head of Coding Club (2024), General Secretary & Public Relations Officer at Student Council (OSIS, 2 terms).
+
+---
+
+### Open-Source & Community Utilities
+
+* 🐍 **Snake Game (Interactive Exhibition Web Game):** In-browser interactive game developed for a school technology expo showcase, demonstrating front-end state loops and keyboard event handling.
+* 🎁 **Giftly (Discord Giveaway Bot):** Lightweight bot integrating the Discord API to automate giveaway lifecycles and winner selection through event-driven commands.
+
+---
 
 <div align="center">
-  <table border="0" width="100%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="48%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=athnf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=ffffff" alt="Athaillah's Stats" width="100%" />
-      </td>
-      <td width="4%" align="center">
-        </td>
-      <td width="48%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athnf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=ffffff" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athnf&theme=radical&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&sideLabels=ffffff&dates=ffffff" alt="Daily Streak" width="100%" />
-</div>
 
----
+### Contact & Collaboration
 
-## 📜 Certifications, Honors & Achievements
+Open for software engineering opportunities, enterprise system contracts, and technical consulting.
 
-* 🏆 **BNSP Certified - Junior Programmer:**
-    * *Issuer: LSP Informatika*
-    * Demonstrated professional competence in writing executable code, debugging, and implementing algorithms according to National Standards.
-* 🎓 **Vocational Excellence in Software Engineering:**
-    * *Institution: SMK Negeri 65 Jakarta*
-    * Graduated with high proficiency in Full Stack Development concepts and practical implementation.
-* 🚀 **Community Tech Leader:**
-    * Organized and facilitated free coding workshops, fostering a community of learners and tech enthusiasts in East Jakarta.
-* ⭐ **Professional Internship Distinction:**
-    * Successfully completed a rigorous 6-month tenure at PT TRASPAC Makmur Sejahtera, receiving commendations for reliability and technical problem-solving skills.
-
----
-
-<div align="center">
-  <h3>🤝 Open for Collaborations</h3>
-  <p>I am actively seeking <b>Full-time Employment</b>, <b>Freelance Projects</b>, or <b>Technical Consultancy</b> roles. Let's create something impactful together.</p>
-  
-  <br />
-
+<p>
   <a href="mailto:azhif.firdaus25@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-azhif.firdaus25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-azhif.firdaus25@gmail.com-d97706?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <br /><br />
-  
-  <a href="https://wa.me/6282125511485">
-    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://anf-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-anf--portfolio.vercel.app-0969da?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.linkedin.com/in/athaillahnazhif/">
+    <img src="https://img.shields.io/badge/LinkedIn-athaillahnazhif-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-  <br /><br />
-  <i>© 2026 Athaillah Nazhif Firdaus. All Rights Reserved.</i>
+<p>
+  <i>Jakarta, Indonesia • © 2026 Athaillah Nazhif Firdaus. All rights reserved.</i>
+</p>
+
 </div>
