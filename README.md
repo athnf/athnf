@@ -3,13 +3,13 @@
 # Athaillah Nazhif (Najib) Firdaus
 
 <p>
-  <b>Founder & Systems Architect at Naverse Group</b> • Creative Technologist & Systems Engineer<br>
+  <b>Systems Architect & Founder at Naverse Group</b> • Creative Technologist & Technical Trainer<br>
   Jakarta, Indonesia
 </p>
 
 <p>
   <a href="https://anf-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Status-●_Available_for_Work_&_Mentoring-2ea44f?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-●_Available_for_Systems_&_Mentorship-2ea44f?style=flat-square" alt="Status" />
   </a>
   <a href="https://anf-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-anf--portfolio.vercel.app-0969da?style=flat-square" alt="Portfolio" />
@@ -37,16 +37,68 @@
 
 ### Executive Profile
 
-Software engineer, systems architect, dan creative technologist berbasis di Jakarta, Indonesia. Pendiri **Naverse Group (Naverse Teknologi Utama)**, mengarahkan arsitektur produk perangkat lunak, infrastruktur platform digital, dan solusi sistem klien enterprise.
+Systems architect, technical trainer, dan creative technologist berbasis di Jakarta, Indonesia. Pendiri **Naverse Group (Naverse Teknologi Utama)**, mengarahkan perancangan arsitektur perangkat lunak, infrastruktur data berlatensi rendah, pedagogi teknis kejuruan, serta integrasi rekayasa sistem dengan produksi visual sinematik.
 
 * **Academic Background:**
   * **Universitas Terbuka:** Bachelor of Computer Science (S.Kom), Information Systems, Fakultas Sains dan Teknologi.
   * **SMK Negeri 65 Jakarta ('25):** Diploma Kejuruan Rekayasa Perangkat Lunak (Nilai Kelulusan: 87.5).
-* **Core Competencies & Engineering Focus:**
-  * **High-Concurrency Systems & Embedded Kernels:** Perancangan arsitektur berlatensi rendah menggunakan eksekusi in-memory, kernel transaksi basis data terbenam SQLite 3 WAL berlatensi sub-15ms, dan sinkronisasi state machine via WebSocket waktu nyata.
-  * **Zero-Trust Hardened Data Layers:** Penegakan keamanan data melalui PostgreSQL Row Level Security (RLS), stored procedures atomik, dan mitigasi menyeluruh terhadap kerentanan OWASP Top 10.
-  * **Cinematography & Audio-Visual Production:** Penguasaan teknis pengoperasian kamera sinematik manual, penataan pencahayaan adegan, pengawasan kontinuitas visual (*visual continuity*), serta tata kelola pascaproduksi berbasis Adobe Creative Cloud.
+* **Multi-Role Core Competencies:**
+  * **High-Concurrency Systems & Embedded Storage:** Perancangan arsitektur berlatensi rendah menggunakan eksekusi in-memory, kernel transaksi terbenam SQLite 3 WAL berlatensi tulis sub-15ms tanpa hambatan konkurensi, dan sinkronisasi status melalui WebSocket waktu nyata.
+  * **Zero-Trust Hardened Data Layers:** Penegakan keamanan data melalui PostgreSQL Row Level Security (RLS) ketat, database triggers, stored procedures atomik, dan mitigasi menyeluruh terhadap kerentanan OWASP Top 10.
+  * **Technical Pedagogy & Quality Audit:** Standardisasi kurikulum komputasi konsep-dasar, perancangan instrumen asesmen tertulis (*paper-based*), asistensi pengajaran basis data kejuruan, serta audit teknis kelayakan proyek perangkat lunak berskala industri.
+  * **Cinematography & Audio-Visual Production:** Penguasaan teknis pengoperasian kamera sinematik manual, penataan pencahayaan adegan berintensitas rendah (*low-key*), pengawasan kontinuitas visual (*script & visual continuity*), serta tata kelola pascaproduksi digital.
   * **Cross-Disciplinary Leadership:** Memimpin kolaborasi lintas kejuruan teknik dan multimedia pada pameran teknologi berskala kementerian dan institusional.
+
+---
+
+### Professional Experience & Technical Leadership
+
+#### **Asisten Guru Kejuruan Basis Data & Auditor Teknis Proyek USK**
+**SMK Negeri 65 Jakarta | 3 – 6 Nov 2026**
+* Bertindak sebagai asisten guru kejuruan dalam penguatan materi basis data terapan dan auditor independen bagi siswa **Kelas 12 PPLG 1** dan **Kelas 12 PPLG 2** (Pengembangan Perangkat Lunak dan Gim) dalam persiapan Uji Sertifikasi Kompetensi (USK).
+* **Asistensi & Penguatan Konsep Basis Data Relasional:**
+  * Mendampingi instruksi kelas mengenai perancangan skema relasional, kaidah normalisasi data (1NF, 2NF, 3NF, hingga BCNF), integritas referensial *foreign key* bersyarat (*cascade constraints*), serta eliminasi anomali data.
+  * Mengajarkan penulisan kueri DDL/DML terstruktur, kueri agregasi multitable (`JOIN`, `GROUP BY`, `HAVING`), *subqueries*, serta indeks kolom untuk optimasi performa pencarian.
+* **Audit Teknis & Code Review Portofolio USK:**
+  * Melakukan peninjauan kode (*code review*) dan audit struktural terhadap puluhan proyek aplikasi web siswa yang diajukan untuk sidang sertifikasi kompetensi.
+  * Mengidentifikasi dan memandu perbaikan kerentanan keamanan perangkat lunak: sanitasi input terhadap *SQL Injection*, validasi data formulir sisi server dan klien, mitigasi *Cross-Site Scripting* (XSS), serta pemisahan logika bisnis dari lapisan antarmuka.
+  * Memastikan kesesuaian implementasi sistem dengan rubrik kelayakan uji sertifikasi kompetensi standar industri dan Badan Nasional Sertifikasi Profesi (BNSP).
+* **Technical Briefing & Mentoring Klinis:**
+  * Memberikan sesi pembekalan teknis terpusat mengenai simulasi pengujian aplikasi, kesiapan penanganan galat (*error handling*), serta artikulasi pertahanan arsitektur di hadapan tim penguji.
+  * Membuka sesi konsultasi klinis langsung di laboratorium komputer untuk membedah kendala teknis (*debugging*) terkait koneksi basis data, kegagalan migrasi skema, dan integritas relasi antartabel.
+* **Perancangan Instrumen & Penyelenggaraan Paper-Based Exam:**
+  * Merancang instrumen evaluasi tertulis komprehensif: menyusun naskah bank soal teknis basis data relasional, pemetaan *Entity Relationship Diagram* (ERD), sintaksis SQL prosedural, dan logika alur algoritma.
+  * Memimpin pengawasan jalannya ujian berbasis kertas (*paper-based exam*) untuk menguji pemahaman mendasar siswa secara objektif tanpa bantuan peramban atau *tools autocompletion*.
+  * Melakukan pengoreksian lembar jawaban serta rekapitulasi penilaian objektif untuk memetakan kesiapan komputasi setiap siswa sebelum memasuki tahap uji demonstrasi aplikasi.
+
+#### **Founder & Systems Architect**
+**Naverse Group (Naverse Teknologi Utama) | Apr 2026 – Present**
+* Merancang dan memelihara infrastruktur terpadu untuk unit Naverse Academy, Naverse Technology, dan Naverse Studio.
+* Menyusun kurikulum terstruktur (5 Modul Emas, 16 bab, 100 bank soal terstandarisasi) untuk literasi komputasi berbasis konsep murni.
+* Mengimplementasikan orkestrasi kecerdasan buatan berbasis failover multi-model Groq API berlatensi sub-40ms dan rekonsiliasi pembayaran atomik Mayar API v2.
+
+#### **Freelance Full-Stack Systems Engineer**
+**Self-Employed | Feb 2024 – Present**
+* Mengembangkan aplikasi web kustom, sistem basis data transaksi, dan modul automasi untuk klien independen, institusi pendidikan, dan unit usaha.
+* Mengintegrasikan gerbang pembayaran digital, menyelesaikan hambatan performa kueri basis data, dan memperkuat batasan otorisasi sistem multi-tenant.
+* Stack inti: Next.js, React, TypeScript, Laravel, PostgreSQL, MySQL, SQLite, Tailwind CSS, RESTful APIs.
+
+#### **IT & Technical Trainer**
+**Freelance Mentorship | Agu 2025 – Mar 2026**
+* Melaksanakan pelatihan privat terstruktur bagi 20+ peserta dengan fokus pada logika pemrograman dasar, algoritma komputasi, dan arsitektur runtime JavaScript.
+* Membimbing peserta dalam instalasi server Linux Ubuntu mandiri, konfigurasi *reverse proxy* Nginx, dan prosedur peluncuran aplikasi ke lingkungan produksi.
+* Mengajarkan prinsip komputasi fundamental mencakup hierarki memori kerja, aliran I/O standar, dan alur perulangan kejadian (*event loop*).
+
+#### **Alumni Guest Speaker: Defensive Cyber Security Fundamentals**
+**SMK Negeri 65 Jakarta | 2025**
+* Diundang kembali ke SMKN 65 Jakarta sebagai narasumber alumni untuk memberikan pelatihan keamanan siber intensif kepada anggota ekstrakurikuler IT.
+* Memberikan materi dan simulasi studi kasus mengenai prinsip pertahanan siber dasar, vektor serangan umum, sanitasi input, dan praktik pemrograman defensif.
+
+#### **Data Support & Front-End Intern**
+**PT Traspac Makmur Sejahtera | Sep 2024 – Feb 2025**
+* Memvalidasi, memproses, dan menyusun data operasional menjadi laporan berkala untuk kebutuhan evaluasi manajemen.
+* Mengembangkan antarmuka front-end internal guna meningkatkan visualisasi data operasional dan efisiensi pelaporan.
+* Memastikan integritas data pada alur pencatatan log sistem dan mengotomatiskan rutinitas pengolahan lembar kerja data.
 
 ---
 
@@ -54,18 +106,18 @@ Software engineer, systems architect, dan creative technologist berbasis di Jaka
 
 ```
 Naverse Teknologi Utama (Holding Entity)
-├── Naverse Academy   [Live Flagship] : Concept-First EdTech Platform & CBT Exam Engine
+├── Naverse Academy   [Live Flagship] : Concept-First EdTech Platform & In-Browser Code Sandbox
 ├── Naverse Technology [Available]    : Enterprise Systems, Web Infrastructure & Game Server Engineering
 └── Naverse Studio     [On Hiatus]    : 3D Standalone Games & Interactive Simulations (Formerly JzInteractive)
 ```
 
 #### 1. Naverse Academy `[Live Flagship]`
-* **Role:** Founder, Solo Developer & Lead Instructor
+* **Role:** Founder, Solo Systems Developer & Lead Instructor
 * **Target:** Menghilangkan kebiasaan menghafal sintaksis melalui pembelajaran konsep dasar komputasi berbasis diagram struktural, modul bacaan mendalam, dan *coding sandbox* terisolasi.
-* **Architecture & Hardening:**
+* **Architecture & Security Hardening:**
   * **Frontend & Runtime:** Next.js 16 (App Router), React 19, Tailwind CSS v4, tipografi ganda Poppins dan Plus Jakarta Sans.
   * **Database & Security:** Supabase PostgreSQL 17 dengan Row Level Security (RLS) ketat, trigger pencegah manipulasi profil (`trg_protect_profiles_secure`), dan stored procedures atomik.
-  * **In-Browser Sandbox Engine:** Lingkungan eksekusi Python 3 dan JavaScript sisi klien tanpa dependensi eksternal, dilengkapi pembatas perulangan otomatis (*circuit breaker*) 20.000 iterasi untuk mencegah pembekuan peramban.
+  * **In-Browser Sandbox Engine:** Lingkungan eksekusi Python 3 dan JavaScript sisi klien tanpa dependensi eksternal, dilengkapi pembatas perulangan otomatis (*circuit breaker*) 20.000 iterasi untuk mencegah pembekuan *main thread* peramban.
   * **UTBK-Standard CBT Anti-Cheat:** Penegakan mode layar penuh wajib, pemantauan status fokus jendela dan tab, diskualifikasi otomatis setelah akumulasi 3 pelanggaran, penguncian *clipboard*, kuota evaluasi minimum 5 soal, serta pembatalan sertifikat otomatis pada reset modul.
   * **Payment Integration:** Sistem penagihan multi-layer Mayar API v2 dengan rekonsiliasi webhook otomatis dan alokasi poin atomik.
   * **Navi AI Operational Assistant:** Asisten operasional berlatensi sub-40ms berbasis failover model ganda Groq, pembatas frekuensi panggilan (*sliding-window rate limiter* 5 permintaan per 30 detik), dan pertahanan anti-jailbreak 4 tingkat.
@@ -77,7 +129,7 @@ Naverse Teknologi Utama (Holding Entity)
   * **Universal CBT Engine (CBTSMA20):**
     * Platform evaluasi asesmen Bring Your Own Device (BYOD) berbasis web murni tanpa ketergantungan aplikasi pihak ketiga, dibangun menggunakan Laravel 12 pada runtime PHP 8.2+ multi-worker.
     * Menggunakan kernel basis data transaksi mikro SQLite 3 mode Write-Ahead Logging (WAL) berlatensi tulis sub-15ms tanpa hambatan konkurensi (*lock contention*).
-    * Dilengkapi telemetri proktor waktu nyata via daemon mandiri Laravel Reverb WebSocket (0ms push).
+    * Dilengkapi telemetri proktor waktu nyata via daemon mandiri Laravel Reverb WebSocket (0ms push notification).
     * Matriks sensor integritas peramban native: HTML5 Page Visibility, auto-blackout buram seketika 0ms (`blur-24px`, `opacity-0.15`), pemantauan rasio layar belah Visual Viewport (<75%), dan Screen WakeLock.
     * Arsitektur persistensi ganda (localStorage dan IndexedDB) dengan antrean luring dan sinkronisasi tumpak (*batch sync*) otomatis saat koneksi pulih; terverifikasi melalui 16 skenario operasional terisolasi dan pengujian otomatis OWASP Top 10.
   * **Timesiana Enterprise News Portal (`news-naldstronaut`):**
@@ -110,7 +162,7 @@ Naverse Teknologi Utama (Holding Entity)
 * **Role:** Solo Game Developer & Creative Technologist
 * **Scope:** Permainan 3D mandiri dan simulasi interaktif yang dibangun menggunakan Unity Universal Render Pipeline (URP), pemrograman C#, dan Blender.
 * **Flagship Project:**
-  * **ANOMALY FLOOR 0:** Permainan horor psikologis pencarian anomali 3D mandiri yang dirilis di itch.io. Dikembangkan mandiri dengan mekanika putaran prosedural, state machine karakter, logika transisi elevator, optimasi *occlusion culling* untuk stabilitas 60+ FPS, dan tata suara spasial 3D untuk Windows, macOS, dan Linux.
+  * **ANOMALY FLOOR 0:** Permainan horor psikologis pencarian anomali 3D mandiri yang dirilis di itch.io. Dikembangkan mandiri dengan mekanika putaran prosedural, state machine karakter, logika transisi elevator, optimasi *occlusion culling* untuk stabilitas 60+ FPS, dan tata suara spasial 3D untuk platform Windows, macOS, dan Linux.
 
 ---
 
@@ -148,51 +200,18 @@ Naverse Teknologi Utama (Holding Entity)
 
 ---
 
-### Technical Arsenal & Creative Toolset
+### Technical Arsenal & Competency Matrix
 
-| Domain | Teknologi, Alat & Protokol |
+| Bidang | Alat, Bahasa, Runtime & Protokol Rekayasa |
 | :--- | :--- |
-| **Web & Frontend Systems** | Next.js 16 (App Router / RSC), React 19, Astro 5, TypeScript, JavaScript (ES6+), Tailwind CSS v4, Alpine.js, HTML5, CSS3, Vite |
-| **Backend & Core Architecture** | Laravel 12 & 10, PHP 8.2+, Node.js, Express.js, Arsitektur RESTful API, Server-Side Rendering (SSR) |
-| **Databases & Embedded Kernels** | SQLite 3 (Mode WAL), PostgreSQL 17 (Supabase), MySQL, Row-Level Security (RLS), Triggers, Stored Procedures Atomik |
-| **Game Server & Modding** | Java 21, PaperMC API 1.21, Unity (Universal Render Pipeline), Pemrograman C#, Blender (3D Modeling & Environment) |
-| **Cinematography & Visual Production** | Pengoperasian Kamera Manual, Penataan Lensa & Fokus, Kontinuitas Visual (*Continuity*), Tata Cahaya Sinematik, Camera Rigging |
-| **Post-Production & Creative Tools** | Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop, Adobe Illustrator, Adobe Audition, Adobe Media Encoder |
-| **DevOps, Telemetry & Security** | Laravel Reverb (WebSockets), Linux (Ubuntu Server, Nginx), Git & GitHub Workflow, Postman, Vercel, Mitigasi OWASP Top 10 |
-| **IT Ops & Infrastructure** | Diagnostik Perangkat Keras, Konfigurasi Jaringan LAN/WLAN, Mesin Asesmen CBT, Sistem Anti-Kecurangan Peramban |
-
----
-
-### Professional Experience & Mentorship
-
-#### **Founder & Lead Developer**
-**Naverse Group (Naverse Teknologi Utama) | Apr 2026 : Present**
-* Merancang dan memelihara infrastruktur terpadu untuk Naverse Academy, Naverse Technology, dan Naverse Studio.
-* Menyusun kurikulum terstruktur (5 Modul Emas, 16 bab, 100 bank soal terstandarisasi) untuk literasi komputasi berbasis konsep.
-* Mengimplementasikan orkestrasi kecerdasan buatan berbasis Groq dan rekonsiliasi pembayaran atomik Mayar API v2.
-
-#### **Freelance Full-Stack Developer**
-**Self-Employed | Feb 2024 : Present**
-* Mengembangkan aplikasi web kustom, sistem basis data, dan modul automasi untuk klien independen, lembaga pendidikan, dan unit usaha.
-* Mengintegrasikan antarmuka gerbang pembayaran, menyelesaikan kendala performa basis data, dan memperkuat batasan otorisasi sistem.
-* Alat inti: Next.js, React, TypeScript, Laravel, PostgreSQL, MySQL, Tailwind CSS, REST APIs.
-
-#### **IT & Technical Trainer**
-**Freelance Mentorship | Aug 2025 : Mar 2026**
-* Melaksanakan pelatihan privat terstruktur bagi 20+ peserta dengan fokus pada logika pemrograman dasar, algoritma komputasi, dan JavaScript.
-* Membimbing peserta dalam instalasi server Linux Ubuntu mandiri, konfigurasi reverse proxy Nginx, dan prosedur peluncuran aplikasi ke server produksi.
-* Mengajarkan prinsip komputasi fundamental mencakup hierarki memori kerja, aliran I/O standar, dan alur perulangan kejadian (*event loop*).
-
-#### **Alumni Guest Speaker: Cyber Security Fundamentals**
-**SMK Negeri 65 Jakarta | 2025**
-* Diundang kembali ke SMKN 65 Jakarta sebagai narasumber alumni untuk memberikan pelatihan keamanan siber intensif kepada anggota ekstrakurikuler IT.
-* Memberikan materi dan studi kasus mengenai prinsip pertahanan siber dasar, vektor serangan umum, sanitasi input, dan praktik pemrograman defensif.
-
-#### **Data Support & Front-End Intern**
-**PT Traspac Makmur Sejahtera | Sep 2024 : Feb 2025**
-* Memvalidasi, memproses, dan menyusun data operasional menjadi laporan berkala untuk kebutuhan evaluasi manajemen.
-* Mengembangkan antarmuka front-end internal guna meningkatkan visualisasi data operasional dan efisiensi pelaporan.
-* Memastikan integritas data pada alur pencatatan log sistem dan mengotomatiskan rutinitas pengolahan lembar kerja data.
+| **Sistem Web & Frontend** | Next.js 16 (App Router / RSC), React 19, Astro 5 (Islands Architecture), TypeScript, JavaScript (ES6+), Tailwind CSS v4, Alpine.js, HTML5 APIs (Page Visibility, Visual Viewport, WakeLock), Web Workers |
+| **Arsitektur Backend & Runtime** | Laravel 12 & 10, PHP 8.2+, Node.js, Express.js, Arsitektur RESTful API, Server-Side Rendering (SSR), Daemon WebSocket (Laravel Reverb) |
+| **Basis Data & Mesin Transaksi** | SQLite 3 (Mode Write-Ahead Logging / WAL), PostgreSQL 17 (Supabase, Row-Level Security, Triggers, Stored Procedures Atomik), MySQL, Normalisasi Skema Data (1NF–BCNF) |
+| **Pedagogi & Asesmen Teknis** | Perancangan Bank Soal Ujian Tertulis (*Paper-Based*), Audit Kelayakan Proyek USK (Standar Industri & BNSP), Kurikulum Pemrograman Konsep-Dasar, Evaluasi Integritas Kode |
+| **Keamanan Sistem & Infrastruktur** | Mitigasi Kerentanan OWASP Top 10 (SQLi, XSS, CSRF, IDOR), Linux (Ubuntu Server, Nginx Reverse Proxy), Arsitektur *Zero-Trust Data*, Git CLI Workflow, Vercel Platform |
+| **Game Server & Modding** | Java 21, PaperMC API 1.21, Unity Universal Render Pipeline (URP), Pemrograman C#, Blender (3D Modeling & Environment Design) |
+| **Sinematografi & Tata Visual** | Pengoperasian Kamera Manual, Penataan Lensa Sinematik & Fokus, Penataan Pencahayaan (*Low-Key / Three-Point Lighting*), Rigging Kamera, Kontinuitas Visual (*Visual Continuity*) |
+| **Pascaproduksi & Media Digital** | Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop, Adobe Illustrator, Adobe Audition, Adobe Media Encoder |
 
 ---
 
@@ -228,7 +247,7 @@ Naverse Teknologi Utama (Holding Entity)
 
 ### Contact & Collaboration
 
-Terbuka untuk peluang rekayasa perangkat lunak, kontrak pengembangan sistem enterprise, konsultasi arsitektur komputasi, serta kolaborasi produksi multimedia.
+Terbuka untuk kontrak rekayasa sistem enterprise, arsitektur basis data, konsultasi teknis & pelatihan kejuruan, serta kolaborasi produksi multimedia.
 
 <p>
   <a href="mailto:azhif.firdaus25@gmail.com">
